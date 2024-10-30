@@ -1,5 +1,7 @@
 __pycache__/
-.venv
-actions
 .pytest_cache
 .DS_Store
+.ruff_cache
+Misc
+build
+virtual_env

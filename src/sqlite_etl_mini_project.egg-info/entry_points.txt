@@ -1,0 +1,2 @@
+[console_scripts]
+sqlite_etl = sqlite_etl_mini_project.main:main

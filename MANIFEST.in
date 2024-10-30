@@ -1,0 +1,2 @@
+include src/sqlite_etl_mini_project/data/air_quality.csv
+include src/sqlite_etl_mini_project/data/air_quality.db

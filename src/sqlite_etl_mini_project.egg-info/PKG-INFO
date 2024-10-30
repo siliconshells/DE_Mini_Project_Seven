@@ -1,6 +1,26 @@
+Metadata-Version: 2.1
+Name: sqlite_etl_mini_project
+Version: 2024.1.0
+Summary: A Duke MSc Data Science, Data Engineering Mini project to package a python project.
+Author-email: Leonard Eshun <leonard.eshun@duke.edu>
+Project-URL: Repository, https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Seven
+Keywords: sqlite,duke,data engineering,data science,setuptools
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Students
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests==2.32.3
+Provides-Extra: dev
+Requires-Dist: black==22.3.0; extra == "dev"
+Requires-Dist: pytest==7.4.0; extra == "dev"
+Requires-Dist: ruff==0.6.5; extra == "dev"
+
 # Data Engineering Mini Project Seven
 
-[![CI](https://github.com/siliconshells/DE_Mini_Project_Seven/actions/workflows/workflow.yml/badge.svg)](https://github.com/siliconshells/DE_Mini_Project_Seven/actions/workflows/workflow.yml)
+[![CI](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Seven/actions/workflows/workflow.yml/badge.svg)](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Seven/actions/workflows/workflow.yml)
 
 
 This repository is created as an assignment from the Data Engineering course, IDS 706. The aim is to package a python script into a command-line tool.   
